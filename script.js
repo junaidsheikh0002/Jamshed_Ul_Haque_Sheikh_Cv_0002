@@ -1,0 +1,1 @@
+// No interactivity is required for this CV. You can add dynamic features if needed in the future.
